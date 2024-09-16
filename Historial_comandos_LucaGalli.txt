@@ -1,0 +1,522 @@
+cd repogit
+ls
+git clone https://github.com/lucagalli123/repo_galli.git
+ls
+LS
+ls
+history
+history > historial.txt
+ls
+git status
+vagrant halt
+Vagrant halt
+vagrant halt
+exit
+pwd
+ls
+cd repogit
+pwd
+ls
+cd ..
+pwd
+ssh-keygen -t ed25519
+ls -l
+ls la
+ls -la
+cd .ssh
+ls -l
+cat id_ed25519.pub 
+cd ..
+cd repogit
+ls
+rm -r repo_galli/
+sudo rm -r repo_galli/
+ls -l
+git clone git@github.com:lucagalli123/repo_galli.git
+ls
+ls -l
+cd repo_galli/
+echo "hola"
+echo "hola" > hola.txt
+ls
+git status
+git add .
+git status
+git commmit -m "primer commit"
+git commit -m "primer commit"
+git status
+git commit -m "mi primer commit"
+git push 
+cat /etc/w
+cat /etc/passwd
+head /etc/passwd
+head -n2 /etc/passwd
+tail /etc/passwd
+tail -n3 /etc/passwd
+grep bash /etc/passwd
+grep -n bash /etc/passwd
+grep bash /etc/passwd > archivo2.txt
+ls -l
+cat archivo2.txt
+sort archivo2.txt
+
+cat /proc/cpuinfo
+cat /proc/cpuinfo | grep model
+cat /proc/cpuinfo | grep model | -n2
+cat /proc/cpuinfo | grep model | head -n2
+clear
+exit
+echo $HOME "hola"
+echo "hol"
+man
+man man
+pwd
+ls
+cd ,cd $HOME, cd
+cd
+exit
+hostnamectl --help
+status
+hostnamectl status
+exit
+ls
+whoami
+pwd
+cd
+ls
+cd repogit/
+ls
+cd ..
+pwd
+mkdir nueva carpeta
+ls
+cd nueva
+ls
+echo hola > tect.txt
+ls
+cat tect.txt 
+cd
+ls
+cd nueva
+rmdir
+cd ..
+rmdir nueva/
+ls
+cd nueva
+ls
+cd ..
+ls
+rm -r nueva
+ls
+rm -r carpeta
+ls
+mkdir "carpeta nueva"
+ls
+cd carpeta
+cd "carpeta nueva"
+ls
+cd ..
+ls
+cd carpeta
+rmdir carpeta
+rmdir "carpeta nueva"
+ls
+mkdir carpeta nueva
+l
+ls
+rmdir carpeta
+rmdir nueva/
+ls
+mkdir carpeta
+ls
+cd carpeta
+cat <<< FIN > texto.txt
+ls
+cat << FIN > texto.txt 
+Hola 
+como 
+estas
+mundo
+FIN
+
+ls
+cat texto.txt 
+pwd
+sl
+l
+ls
+cat texto.txt 
+bc <<< 3+2 > texto.txt 
+cat texto.txt 
+cat <<< si es 5 el resultado >> texto.txt 
+cat texto.txt 
+echo si, 5 >> texto.txt 
+cat texto.txt 
+si, 5 again >> texto.txt 
+echo hola mundo | ws
+echo hola mundo | wc
+echo "hola mundo" | wc
+vagrant exir
+exit
+ls
+cd repo
+cd repogit/
+ls
+cd repo_galli/
+ls
+cd hol
+cat hola.txt 
+ls
+cat archivo2.txt 
+man
+man man
+whoami
+id
+pwd
+cls
+clear
+ls
+cd ..
+ls
+tree
+history
+vagrant halt
+cat help
+ćat -help
+ls
+cd repo_galli/
+ls
+cat hola.txt 
+cat -help
+cd
+ls
+exit
+ls
+cd repogit
+ls
+cat historial.txt 
+ls
+cd repo_galli/
+ls
+cat archivo2.txt 
+ls
+cat hola.txt 
+l
+ls
+cd
+vagrant status
+Vagrant status
+vagrant status
+vagrant exit
+exit
+ls
+cd repogit/
+ls
+cd repo_galli/
+ls
+cd
+ls
+cd carpeta
+ls
+cat texto.txt 
+cd ..
+ls
+cd repogit/
+ls
+cd
+pwd
+ls
+ls -la
+cd .ssh
+ls
+ls -l
+ls -la
+cd ..
+ls
+cd repogit/
+LS
+ls
+cd repo_galli/
+ls
+cat archivo2.txt 
+cd ..
+ñs
+ls
+cd repo_galli/
+git status
+ls
+cat archivo2.txt 
+ls
+rm archivo2.txt 
+ls
+git status
+ls
+cat > nuevo.txt
+ls
+git status
+git add .
+ls
+git status
+git commit -m "segundo commit"
+git push
+clear
+cd
+ls
+cd repogit/
+ls
+git clone git@github.com:lucagalli123/TP_AySO.git
+ls
+cd TP_AySO/
+ls
+cat README.md 
+ls
+cd ..
+ls
+cd TP_AySO/
+ls
+ls -l
+cat etc/os-release
+cat /etc/os-release
+man grep
+grep HOME_URL/etc/os-release
+grep home_url /etc/os-release
+grep HOME_URL /etc/os-release
+grep -i home_url /etc/os-release
+whoami
+echo "Usuario=$(whoami)"
+"Usuario=$(whoami)" > datos_usuario.txt
+ls
+cat datos_usuario.txt 
+echo "Usuario=$(whoami)" > datos_usuario.txt
+l
+ls
+cat datos_usuario.txt 
+git add
+git add .
+ls
+git status
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuario.txt"
+ls
+head /proc/cpuinfo | grep "model name"
+head /proc/cpuinfo | grep "model name" >> datos_usuario.txt 
+ls
+cat datos_usuario.txt 
+git status
+git add .
+git status
+git commit -m "feat: añadiendo informacion de CPU"
+git status
+grep lista_ordenada
+grep nologin lista_ordenada
+ls
+cat datos_usuario.txt 
+grep model datos_usuario.txt 
+grep nologin /etc/passwd
+grep -v nologin /etc/passwd 
+grep -v nologin /etc/passwd > lista_ordenada
+ls
+cat lista_ordenada 
+clear
+ls
+clear
+cat lista_ordenada 
+sort lista_ordenada 
+clear
+sort lista_ordenada -t":" -k7
+clear
+grep -v nologin /etc/passwd | sort -t":" -k7 > lista_ordenada 
+ls
+cat lista_ordenada 
+git status
+git add .
+git status
+git commit -m “ADD: Listado de usuarios ordenada”
+git status
+clear
+git status
+git commit -m "ADD: Listado de usuarios ordenada"
+git status
+clear
+apropos "dump traffic" tcpdump
+apropos "dump traffic" > comando_dump_net
+ls
+cat comando_dump_net 
+echo apropos "dump traffic" 
+echo apropos "dump traffic" >> comando_dump_net 
+ls
+cat comando_dump_net 
+clear
+git status
+git add .
+git status
+commit -m "ADD: Comando para capturar y analizar el trafico de red"
+git commit -m "ADD: Comando para capturar y analizar el trafico de red"
+git status
+ls
+clear
+cat README.md 
+CELAR
+clear
+cat << FIN >> README.md 
+Alumno: Luca Galli
+Division: 311
+Turno: noche
+FIN
+
+cat README.md 
+git status
+git add .
+git status
+git commit -m "ADD: Datos del alumno"
+git tstus
+git status
+clear
+history -a $HOME/.bash_history
+ls -la $HOME history -a $HOME/.bash_history cp $HOME/.bash_history Historial_comandos.txt
+ls
+history
+clear
+history -a
+ls
+git status
+ls
+cd
+ls
+cd repogit/
+ls
+cat historial.txt 
+cd UTN-FRA_SO_onBording/
+cd ..
+cd TP_AySO/
+ls
+ls -la $HOME
+cd
+ls
+pwd
+history -a
+ls
+history
+pwd
+ls
+ls -la
+cd .bash_history
+cat .bash_history
+clear
+cp $HOME/.bash_history > Historial_comandos.txt
+ls
+cat Historial_comandos.txt 
+ls
+ls l
+ls -l
+ls -la
+ls 
+cd repogit/
+ls
+cd TP_AySO/
+cp $HOME/.bash_history > Historial_comandos.yxy
+ls
+cat Historial_comandos.yxy 
+ls
+rm Historial_comandos.yxy 
+ls
+cd
+pwd
+ls -la /home/vagrant
+clear
+history -a /home/vagrant/.bash_history
+cd $HOME
+ls
+cd repogit/
+cd $home
+LS
+clear
+ls
+cd repogit/
+ls
+cd TP_AySO/
+cd /home/vagrant
+cd repogit/
+cd TP_AySO/
+cd $home
+ls
+cd repogit/
+cd $homee
+cd repogit/
+cd hoommee
+clear
+cd TP_AySO/
+ls
+clear
+ls -la $home | history -a $home/.bash_history | cp $home/.bash_history > Historial_comandos.txt
+ls
+cat Historial_comandos.txt 
+ls -la /home/vagrant | history -a /home/vagrant/.bash_history | cp /home/vagrant/.bash_history > Historial_comandos.txt
+cd $HOME
+ls
+cd repogit/
+cd $home
+LS
+clear
+ls
+cd repogit/
+ls
+cd TP_AySO/
+cd /home/vagrant
+cd repogit/
+cd TP_AySO/
+cd $home
+ls
+cd repogit/
+cd $homee
+cd repogit/
+cd hoommee
+clear
+cd TP_AySO/
+ls
+clear
+ls -la $home | history -a $home/.bash_history | cp $home/.bash_history > Historial_comandos.txt
+ls
+cat Historial_comandos.txt 
+ls -la /home/vagrant | history -a /home/vagrant/.bash_history | cp /home/vagrant/.bash_history > Historial_comandos.txt
+cd
+ls -la
+cat .bash_history 
+clear
+ls
+cat Historial_comandos.txt 
+ls
+rm Historial_comandos.txt 
+ls
+cd repogit/
+ls
+cd T
+cd TP_AySO/
+ls
+git status
+clear
+cat Historial_comandos.txt 
+clear
+cd
+ls
+ls -la
+cd .bash_history
+cat .bash_history
+pwd
+clear
+ls
+cd repogit/
+cd TP_AySO/
+cp /home/vagrant/.bash_history >> Historial_comandos.txt 
+cp --help
+clear
+cp -a /home/vagrant/.bash_history > Historial_comandos_LucaGalli.txt
+ls
+cat Historial_comandos_LucaGalli.txt 
+ls
+clear
+ls
+rm Historial_comandos.txt 
+ls
+history -a
+cd
+history -a
